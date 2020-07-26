@@ -1,0 +1,11 @@
+{
+  "name": "package-atividade-pratica-unidade-2-puc-minas",
+  "version": "1.0.0",
+  "description": "Publicacao do package da atividade pratica Node unidade 2 Puc Minas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Gonçalves",
+  "license": "ISC"
+}
