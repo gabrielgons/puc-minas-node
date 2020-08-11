@@ -1,6 +1,6 @@
 /*
 Para aprender, criei um package no npm.
-portanto utilizao apenas o index.js
+portanto utilizo apenas o index.js
 instalar o pacote:
 npm i package-atividade-pratica-unidade-2-puc-minas
 */
